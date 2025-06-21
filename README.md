@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhx077&count_private=true&show_icons=true&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=lhx077&count_private=true&show_icons=true&theme=tokyonight))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhx077&theme=cobalt)]((https://github-readme-stats.vercel.app/api/top-langs/?username=lhx077&theme=cobalt))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Infinity-Innovation-Engine&repo=Issue-Tracker)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Infinity-Innovation-Engine/Issue-Tracker))
