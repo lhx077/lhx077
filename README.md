@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhx077&theme=cobalt)]((https://github-readme-stats.vercel.app/api/top-langs/?username=lhx077&theme=cobalt))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Infinity-Innovation-Engine&repo=Issue-Tracker)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Infinity-Innovation-Engine/Issue-Tracker))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Infinity-Innovation-Engine&repo=Issue-Tracker)](https://github.com/Infinity-Innovation-Engine/Issue-Tracker)
