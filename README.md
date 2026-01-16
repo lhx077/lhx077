@@ -5,9 +5,8 @@
 <div align="center">
   <h3> Full Stack Developer </h3>
 </div>
-
+<!--
 ---
-
 <div align="center">
   <table>
     <tr>
@@ -20,14 +19,12 @@
     </tr>
   </table>
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lhx077&theme=tokyonight" alt="GitHub Streak" />\
+  <img src="https://streak-stats.demolab.com?user=lhx077&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
-  
   </div>
-
 ---
+-->
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
