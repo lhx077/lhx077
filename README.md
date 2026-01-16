@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unity,unreal,visualstudio,java,python,git,postgresql,vue,nodejs,ts,vscode,rider,idea,markdown,clion,cmake,js,css,hrml&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unity,unreal,visualstudio,java,python,git,postgresql,vue,nodejs,ts,vscode,rider,idea,markdown,clion,cmake,js,css,html,json&perline=6" />
   </a>
 </div>
 
