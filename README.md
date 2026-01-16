@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhx077&theme=tokyonight&hide_border=true" alt="Streak" />
   <br/><br/>
   
   </div>
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unity,unreal,visualstudio,java,python,git,mysql,vue,nodejs,ts,vscode,rider&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unity,unreal,visualstudio,java,python,git,mysql,vue,nodejs,ts,vscode,rider,idea,reshaper,clion,cmake&perline=7" />
   </a>
 </div>
 
