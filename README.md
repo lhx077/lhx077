@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lhx077&theme=tokyonight&hide_border=true" alt="Streak" />
   <br/><br/>
   
   </div>
