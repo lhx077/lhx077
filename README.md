@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lhx077&theme=tokyonight&hide_border=true" alt="Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lhx077&theme=tokyonight)](https://git.io/streak-stats)
   <br/><br/>
   
   </div>
