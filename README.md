@@ -6,12 +6,12 @@
   <h3> Full Stack Developer </h3>
 </div>
 
----
+
 <div align="center">
-  <img src="[https://streak-stats.demolab.com?user=lhx077&theme=tokyonight](https://yourinsights.vercel.app/api/insight?username=lhx077&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false)" alt="GitHub Status" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=lhx077&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Status" />
   <br/><br/>
-  </div>
----
+</div>
+
 
 <h3 align="center">Tech Stack</h3>
 
