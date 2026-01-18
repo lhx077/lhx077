@@ -5,26 +5,14 @@
 <div align="center">
   <h3> Full Stack Developer </h3>
 </div>
-<!--
+
 ---
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lhx077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhx077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lhx077&theme=tokyonight" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com?user=lhx077&theme=tokyonight](https://yourinsights.vercel.app/api/insight?username=lhx077&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false)" alt="GitHub Status" />
   <br/><br/>
   </div>
 ---
--->
+
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
