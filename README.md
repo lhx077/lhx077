@@ -6,6 +6,10 @@
   <h3> Full Stack Developer </h3>
 </div>
 
+<div align="center" style="bold">
+Infinity Innovation Engine Core Developer
+</div>
+<br></br>
 
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=lhx077&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Status" />
