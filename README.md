@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="bold">
-Infinity Innovation Engine Core Developer
+
 </div>
 <br></br>
 
